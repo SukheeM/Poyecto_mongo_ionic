@@ -53,7 +53,7 @@ Thumbs.db
 # ================================
 # Evitar repositorios embebidos
 # ================================
-frontend/.git
+
 backend/.git
 
 
